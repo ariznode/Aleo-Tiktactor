@@ -1,1 +1,1 @@
-# Aleo-Tiktactor
+# Aleo-Tiktactor Ariz Node
